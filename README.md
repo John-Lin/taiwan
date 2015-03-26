@@ -19,3 +19,5 @@
 * stash
 * merge conflict
 * rebase
+
+![cowbell](http://www.socialmediaexplorer.com/wp-content/uploads/2011/01/morecowbell.jpg)
